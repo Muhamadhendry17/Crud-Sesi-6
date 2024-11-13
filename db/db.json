@@ -1,0 +1,12 @@
+{
+  "contacts": [
+    {
+      "id": "f325",
+      "firstName": "hendry",
+      "lastName": "irawan",
+      "email": "hendry@gmail.com",
+      "phoneNumber": "08345678987654",
+      "profile": null
+    }
+  ]
+}
